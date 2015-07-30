@@ -1,5 +1,7 @@
 # Markette :: Gopay
 
+[![Join the chat at https://gitter.im/f3l1x/Gopay](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/f3l1x/Gopay?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - pro Nette Framework 2.1
 - a Gopay API 2.4
 
